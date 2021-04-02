@@ -1,8 +1,8 @@
 ## Introduction
 Hello, we are project group 15 for ITCS 3160. We are Edward Krizhevskiy, Saleh Saleh, Saad Mahmoud El Refai, and Rachel Conforti. We will be using a pre-existing database made by graduate UNCC students. 
-They call themselves the "mavericks" and consisted of Dhananjay Arora, Akshay Babu, Sumit Kawale, and Prashant Madaan. <br>
+They call themselves the "mavericks" and consisted of Dhananjay Arora, Akshay Babu, Sumit Kawale, and Prashant Madaan. <br><br>
 This database is for a campus food delivery service for college campuses. This service allows the college to control who is coming on and off the campus for food delivery. 
-This allows the college to better overview the health and safety of their students. We added a rating system that allows customers to rate their driver and the restaurant once they complete an order. 
+Giving the college control of this allows a better oversight on the health and safety of their students. We added a rating system that allows customers to rate their driver and the restaurant once they complete an order. 
 Customers will be able to see what other customers have rated restaurants. As well, college administrators will also be able to view these ratings.  
 
 ## Use Case for Rating System
