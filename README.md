@@ -6,7 +6,7 @@ This allows the college to better overview the health and safety of their studen
 Customers will be able to see what other customers have rated restaurants. As well, college administrators will also be able to view these ratings.  
 
 ## Use Case for Rating System
-<center><img src="/imgs/UseCase.png?raw=true" width="1000""></center>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project/blob/main/img/UseCase.png"></center>
 
 ## Business Rules:
 A Driver can have zero to many ratings.<br>
@@ -16,7 +16,7 @@ A Restaurant Rating can only be about one specific Restaurant.<br>
 
 ## EERD (full database)
 Fully implemented EERD<br>
-<center><img src="/imgs/EERD.png?raw=true" width="1000""></center>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project/blob/main/img/EERD.PNG"></center>
 
 ## MySQL Queries
 
