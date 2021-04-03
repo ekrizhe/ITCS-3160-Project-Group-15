@@ -9,10 +9,12 @@ Customers will be able to see what other customers have rated restaurants. As we
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project/blob/main/img/UseCase.png"></center>
 
 ## Business Rules:
-A Driver can have zero to many ratings.<br>
-A Driver Rating can only be about one specific driver.<br>
-A Restaurant can have zero to many ratings.<br>
-A Restaurant Rating can only be about one specific Restaurant.<br>
+Customers are not required to enter ratings. <br>
+There is only one driver/restaurant per rating. <br>
+Anyone can view driver/restaurant ratings. <br>
+Only drivers/restaurants with high enough average ratings are approved. <br> 
+Only drivers/restaurants can get ratings. <br>
+Each driver/restaurant can get multiple ratings. <br>
 
 ## EERD (full database)
 Fully implemented EERD<br>
