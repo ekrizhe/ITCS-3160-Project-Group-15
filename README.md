@@ -18,9 +18,15 @@ Each driver/restaurant can get multiple ratings. <br>
 
 ## EERD (full database)
 Fully implemented EERD<br>
-<center><img src="https://github.com/ekrizhe/ITCS-3160-Project/blob/main/img/EERD.PNG"></center>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/EERD2.png"></center>
 
 ## MySQL Queries
+Rating table SQL query<br>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/rating_table.png"></center><br>
+Driver rating SQL query<br>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/driver_rating.png"></center>
+restaurant rating SQL 1uery<br>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/rest_rating.png"></center><br>
 
 ## Stored Procedure
 
