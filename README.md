@@ -37,7 +37,7 @@ Below is our advanced query thatr will allow you to see the restaurant id, resta
 
 ## Stored Procedure
 How we created the stored procedure AVG_DRIVER.
-<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedproceduretwo.png"></center><br>
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/sp2.png"></center><br>
 This is an example of how you would use our stored procedure, AVG_Driver.
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedprocedure.png"></center><br>
 
