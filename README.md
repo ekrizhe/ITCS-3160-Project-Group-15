@@ -28,10 +28,20 @@ Driver rating SQL query
 Restaurant rating SQL query
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/rest_rating.png"></center><br>
 
-## Stored Procedure
+## Advanced Queries
+Below is our advanced query for our which allows you to see the student id, the associated Major, and thie overall driver rating. <br>
+We thought this would be a good example of a query a college administrator would use.
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/AdvDriverQuery.png"></center><br>
+Below is our advanced query thatr will allow you to see the restaurant id, restaurant name, average food rating, and average price rating.
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedprocedure.png"></center><br>
 
-## Web/App Implementation (Optional) or Description of Future Work
+## Stored Procedure
+How we created the stored procedure AVG_DRIVER.
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedproceduretwo.png"></center><br>
+This is an example of how you would use our stored procedure, AVG_Driver.
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedprocedure.png"></center><br>
 
 ## MySQL dump
+<center><https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/MySQL%20dump/ratings%20system.sql></center><br>
 
-## Project Video
+## Narrated Powerpoint
