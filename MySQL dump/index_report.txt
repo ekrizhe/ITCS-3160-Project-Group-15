@@ -1,0 +1,14 @@
+12:43:39	advanced_query_1		14 row(s) returned	0.015 sec / 0.000 sec
+
+13:12:41	advanced_query_1		14 row(s) returned	0.000 sec / 0.000 sec
+
+12:42:40	advanced_query_2	        7 row(s) returned	0.032 sec / 0.000 sec
+
+13:10:05	advanced_query_2		7 row(s) returned	0.000 sec / 0.000 sec
+
+
+
+
+
+
+
