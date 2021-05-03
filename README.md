@@ -42,6 +42,10 @@ This is an example of how you would use our stored procedure, AVG_Driver.
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedprocedure.png"></center><br>
 
 ## MySQL dump
-<center><https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/MySQL%20dump/ratings%20system.sql></center><br>
+[Link to our MySQL Dump](https://github.com/ekrizhe/ITCS-3160-Project-Group-15/tree/main/MySQL%20dump)
+<br> We have added in our final MySQL dumb for the project. We also attached each of the individual files for our advance views, indexes, and stored procedures.
 
 ## Narrated Powerpoint
+[Link to our Narrated Powerpoint](https://docs.google.com/presentation/d/1UlTVPGTwOB8Jk-NrQOpl6-Cu8n_tc-YwrRJV3KWdzKU/edit?usp=sharing)
+
+
