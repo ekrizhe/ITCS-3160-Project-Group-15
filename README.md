@@ -41,11 +41,16 @@ How we created the stored procedure AVG_DRIVER.
 This is an example of how you would use our stored procedure, AVG_Driver.
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedprocedure.png"></center><br>
 
+## Stored Procedure
+Below is a photo of our indexes that we created for our project. We decided to do it on the order table for order_id and on the rating table for rating_id. 
+We did this because there were two that are called upon frequently. We saw a decrease in time of 0.015 seconds for the order_id and 0.032 seconds for rating_id.
+<center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/Index.png"></center><br>
+
 ## MySQL dump
 [Link to our MySQL Dump](https://github.com/ekrizhe/ITCS-3160-Project-Group-15/tree/main/MySQL%20dump)
 <br> We have added in our final MySQL dumb for the project. We also attached each of the individual files for our advance views, indexes, and stored procedures.
 
 ## Narrated Powerpoint
 [Link to our Narrated Powerpoint](https://docs.google.com/presentation/d/1UlTVPGTwOB8Jk-NrQOpl6-Cu8n_tc-YwrRJV3KWdzKU/edit?usp=sharing)
-
+<br> You will need a UNCC account to access the google slide presentation. 
 
