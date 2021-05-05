@@ -41,7 +41,7 @@ How we created the stored procedure AVG_DRIVER.
 This is an example of how you would use our stored procedure, AVG_Driver.
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/storedprocedure.png"></center><br>
 
-## Stored Procedure
+## Indexes for Reports
 Below is a photo of our indexes that we created for our project. We decided to do it on the order table for order_id and on the rating table for rating_id. 
 We did this because there were two that are called upon frequently. We saw a decrease in time of 0.015 seconds for the order_id and 0.032 seconds for rating_id.
 <center><img src="https://github.com/ekrizhe/ITCS-3160-Project-Group-15/blob/main/img/Index.png"></center><br>
